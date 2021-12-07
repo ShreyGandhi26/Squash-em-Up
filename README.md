@@ -7,4 +7,4 @@ Also having a simple switch for player that can be triggered while standing on i
 Some changing platforms that keep changing based on time
 Lasers to add difficulty in the game
 
-Try the Live game here : https://aru1310.itch.io/squashemup
+Try the Live game here : https://shreygandhi.itch.io/squash-em-up
